@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oophohngig.newjerseymyhome.com/sitemap.xml
